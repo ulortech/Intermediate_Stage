@@ -1,16 +1,16 @@
 # Intermediate_Stage
 Hi 
-First 
+First. 
 We have minted 500 Billion ULO tokens as the base tokens for our application. The address to the transaction can be found here https://tonscan.io/transactions/40cba2572cd3cd2d742246857b7ba02ad7386bfdc8a3ff5b8573d745f61d8ff4
 
-Secondly
+Secondly.
 We are using crytal wallet to hold these tokens for the main time, ton surf intergration will be next.
 ![image](https://user-images.githubusercontent.com/90114773/133170578-d071ffe0-e931-46a0-82e9-1b7e32eeb2b7.png)
 
-Thirdly
-The root address to the smart contract for our token is 0:43ed319e73f1c5e139bb0bb949fa42ab8c7efd15fd458504abb4eacb6d66306e
+Thirdly.
+The root address to the smart contract for our token is 0:43ed319e73f1c5e139bb0bb949fa42ab8c7efd15fd458504abb4eacb6d66306e .
 
-Fouthly 
+Fouthly. 
 The folder Ulor contains the files for the wallet smart contract deployed on devnet and on mainnet intended to hold the new tokens which we have minted. 
 
 On devnet we have the following info

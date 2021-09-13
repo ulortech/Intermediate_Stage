@@ -37,3 +37,5 @@ Non-bounceable address (for init): UQB0bgqw2S36x93V7s01sZXZvtDC3dMBSvse_iTcuD5bZ
 Bounceable address (for later access): EQB0bgqw2S36x93V7s01sZXZvtDC3dMBSvse_iTcuD5bZ5gp
 Succeeded
 
+Fithly.
+Ulor..zip contains the user interface for our project, just click on tonswap to to see how the swap is intended to work. This part is to be hosted on IPFS

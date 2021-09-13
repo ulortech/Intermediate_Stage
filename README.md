@@ -1,6 +1,6 @@
 # Intermediate_Stage
 Hi 
-First
+First <\br>
 We have minted 500 Billion ULO tokens as the base tokens for our application. The address to the transaction can be found here https://tonscan.io/transactions/40cba2572cd3cd2d742246857b7ba02ad7386bfdc8a3ff5b8573d745f61d8ff4
 
 Secondly
